@@ -1,3 +1,3 @@
-# project flexbox DIO
-
 # Projeto final de Flexbox
+
+Código do projeto final de Flexbox.
